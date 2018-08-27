@@ -1,0 +1,22 @@
+{
+    "name": "Swablu",
+    "displayName": "Swablu",
+    "description": "https://pokemondb.net/pokedex/swablu",
+    "version": "0.0.1",
+    "publisher": "zaneadix",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Swablu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Swablu-color-theme.json"
+            }
+        ]
+    }
+}
