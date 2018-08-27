@@ -4,6 +4,7 @@
     "description": "https://pokemondb.net/pokedex/swablu",
     "version": "0.0.1",
     "publisher": "zaneadix",
+    "repository": "https://github.com/zaneadix/swablu-theme",
     "engines": {
         "vscode": "^1.26.0"
     },
