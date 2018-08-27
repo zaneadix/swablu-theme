@@ -35,6 +35,9 @@
 	"name": "Swablu",
 	"type": "dark",
 	"colors": {
+
+		"foreground": "#172b4d",
+
 		"editor.background": "#EBECF0",
 		"editor.foreground": "#172b4d",
 
@@ -48,14 +51,13 @@
 		"dropdown.background": "#EBECF0",
 		"dropdown.foreground": "#2b2b2b",
 		
-		"editor.findMatchBackground": "#cadef2",
+		"editor.findMatchBackground": "#F1C232",
 		"editor.findMatchHighlightBackground": "#cadef2",
 		"editorGroupHeader.tabsBackground": "#2a2a2a",
 		"editorLineNumber.foreground": "#0747A6",
 		"editorLineNumber.activeForeground": "#BF2600",
 		"editor.lineHighlightBorder": "#C1C7D0",
 		"editor.selectionBackground": "#cadef2",
-
 
 		"editorBracketMatch.background": "#cadef2",
 		"editorBracketMatch.border": "#0747A6",
@@ -69,7 +71,6 @@
 		"input.foreground": "#EBECF0",
 		"input.placeholderForeground": "#888",
 
-		
 		"list.activeSelectionBackground": "#cadef2",
 		"list.activeSelectionForeground": "#0052CC",
 		"list.inactiveSelectionBackground": "#cadef2",

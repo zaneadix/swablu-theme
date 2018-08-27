@@ -2,7 +2,7 @@
     "name": "Swablu",
     "displayName": "Swablu",
     "description": "https://pokemondb.net/pokedex/swablu",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "zaneadix",
     "repository": "https://github.com/zaneadix/swablu-theme",
     "engines": {
@@ -15,7 +15,7 @@
         "themes": [
             {
                 "label": "Swablu",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/Swablu-color-theme.json"
             }
         ]
